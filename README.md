@@ -1,6 +1,6 @@
 ### Hi there, I am Wend Carlos 👋
 
-![Wend Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=W-Carlos&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-Carlos&layout=compact&theme=tokyonight)](https://github.com/W-Carlos/github-readme-stats) 
+![Wend Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=W-Carlos&show_icons=true&theme=tokyonight)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-Carlos&layout=compact&theme=tokyonight)](https://github.com/W-Carlos/github-readme-stats) 
 
 <!--
 **W-Carlos/W-Carlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
