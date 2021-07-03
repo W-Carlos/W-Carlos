@@ -1,7 +1,7 @@
 ### Hi there 👋
 Im Wend Carlos.
 
-![Wend Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=W-Carlos&show_icons=true&theme=dracula)
+![Wend Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=W-Carlos&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-Carlos)](https://github.com/W-Carlos/github-readme-stats)
 
