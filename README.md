@@ -2,6 +2,9 @@
 Im Wend Carlos.
 
 ![Wend Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=W-Carlos&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?W-Carlos=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **W-Carlos/W-Carlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
