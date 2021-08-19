@@ -1,4 +1,4 @@
-### Hi there, I am Wend Carlos 👋
+### Hi there, I'm Wend Carlos 👋
 
 ![Wend Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=W-Carlos&show_icons=true&theme=tokyonight)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-Carlos&layout=compact&theme=tokyonight)](https://github.com/W-Carlos/github-readme-stats) 
 
