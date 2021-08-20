@@ -15,8 +15,14 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<!--
 ![Wend Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=W-Carlos&show_icons=true&theme=tokyonight)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-Carlos&layout=compact&theme=tokyonight)](https://github.com/W-Carlos/github-readme-stats) 
+-->
+ <div>
+  <a href="https://github.com/W-Carlos">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=W-Carlos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-Carlos&layout=compact&theme=tokyonight"/>
+</div>
 
 <!--
 **W-Carlos/W-Carlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
