@@ -1,8 +1,10 @@
-## Hi there, I'm Wend Carlos <!--<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">-->
+## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hi there, I'm Wend Carlos <!--<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">-->
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-- 🔭 I am currently part of CodeClub.
-- 🌱 I'm currently learning HTML, CSS and JavaScript. 
+I am a Front-end Developer and I have experience in developing web applications. I focus on developing projects using JavaScript, React, Styled-Components, HTML, CSS, Node, Axios and other tools. I am a DevClub student where I could develop my technical skills.
+
+- 🌱 I'm currently learning JavaScript and ReactJS. 
+- 🚀 I intend to learn React-Native and Typescript
 - 💼 I intend to work with web development.
 - 💬 If you need to get in touch wendcarlos18@hotmail.com
 
