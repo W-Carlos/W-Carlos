@@ -6,7 +6,6 @@ I am a Front-end Developer and I have experience in developing web applications.
 - 🌱 I'm currently learning JavaScript and ReactJS. 
 - 🚀 I intend to learn React-Native and Typescript
 - 💼 I intend to work with web development.
-- 💬 If you need to get in touch wendcarlos18@hotmail.com
 
 ## Contacts:
 <a target="_blank" href="https://www.linkedin.com/in/wend-carlos/">
